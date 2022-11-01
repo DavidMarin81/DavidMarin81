@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hello World!!!
+## My name is David Marín and I love programming
+### Currently, I´m studyng C.S. Desarrollo de Aplicaciones Multiplatafoma (DAM).
+### I´m learning:
+  - Java
+  - C#
+  - Python
+  - Microsoft Power Platform
+  - MySQL
+  - Github and MarkDown
+  - HTML/CSS/Javascript
 
 <!--
 **DavidMarin81/DavidMarin81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
