@@ -1,7 +1,6 @@
-# <span style="color:red">H</span><font color='cyan'>E</font><font color="yellow">L</font><font color="lime">L</font><font color="yellow">O</font> <font color="cyan">W</font><font color="lime">O</font><font color="red">R</font><font color="cyan">L</font><font color="yellow">D</font><font color="lime">!</font><font color="yellow">!</font><font color="red">!</font>
-My name is <font color="cyan">David Marin</font> and I love programming.
+![HelloWorld](HelloWorld.png)
 
-<span style="color:red">text in red</span>
+My name is <font color="cyan">David Marin</font> and I love programming.
 
 Contact me: <davidmaringomez81@gmail.com>
 ### Currently, I´m studyng C.S. Desarrollo de Aplicaciones Multiplatafoma (DAM) - IES de Teis.
