@@ -29,3 +29,12 @@ Contact me: <davidmaringomez81@gmail.com>
 - PSP
     - [Ejercicio 7](https://github.com/DavidMarin81/actividad7_leerCadenas)
 - Base de datos
+
+## MY PROYECTS
+- Arduino
+    - [Simon Says](https://github.com/DavidMarin81/Proyectos-Varios-/blob/main/Arduino/SImon%20Dice/Simon%20Dice%20(Sin%20pantalla))
+    - [Simon Says with LCD Screen](https://github.com/DavidMarin81/Proyectos-Varios-/blob/main/Arduino/SImon%20Dice/Sim%C3%B3n%20Dice%20(Con%20Pantalla))
+- Android Studio
+    - [City Jungle](https://github.com/DavidMarin81/actividad7_leerCadenas)
+- C#
+    - [Generador de Salidas del Puerto](https://github.com/DavidMarin81/actividad7_leerCadenas)
