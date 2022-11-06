@@ -29,6 +29,9 @@ Contact me: <davidmaringomez81@gmail.com>
     - [Tarea 1.1](https://github.com/DavidMarin81/Tarea01.1)
 - PSP
     - [Ejercicio 7](https://github.com/DavidMarin81/actividad7_leerCadenas)
+    - [Ejercicio 8](https://github.com/DavidMarin81/Ejercicio8-Procesos)
+    - [Ejercicio 9](https://github.com/DavidMarin81/Ejercicio9-Procesos)
+    
 - Base de datos
 
 ## MY PROYECTS
