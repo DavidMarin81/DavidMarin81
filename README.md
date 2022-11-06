@@ -25,7 +25,7 @@ Contact me: <davidmaringomez81@gmail.com>
 
 ## MY REPOSITORIES
 - Acceso a Datos
-    - [Actividad 1.6 - Lectura y Escritura XML con DOM](https:///github.com/DavidMarin81/Actividad1.6))
+    - [Actividad 1.6 - Lectura y Escritura XML con DOM](https:///github.com/DavidMarin81/Actividad1.6)
     - [Tarea 1.1](https://github.com/DavidMarin81/Tarea01.1)
 - PSP
     - [Ejercicio 7](https://github.com/DavidMarin81/actividad7_leerCadenas)
