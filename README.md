@@ -36,7 +36,7 @@ Contact me: <davidmaringomez81@gmail.com>
 - Base de datos
 
 ## MY PROYECTS
-- Acceso a Datos
+- Java
     - [Lectura y Escritura XML con DOM](https://github.com/DavidMarin81/LecturaEscrituraXMLconDOM)
     - [Lectura y Escritura con JAXB (XML - JAVA)](https://github.com/DavidMarin81/LecturaEscrituraconJAXB_XML)
 - Arduino
