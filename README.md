@@ -3,7 +3,7 @@
 ### My name is <font color="cyan">David Marin</font> and I love programming.
 
 Contact me: <davidmaringomez81@gmail.com>
-### Currently, I´m studyng C.S. Desarrollo de Aplicaciones Multiplatafoma (DAM) - IES de Teis.
+### Currently, I study programming in C.S. Desarrollo de Aplicaciones Multiplatafoma (DAM) - IES de Teis.
 ### I´m learning:
 
 <!-- logos cogidos de: https://dev.to/envoy_/150-badges-for-github-pnk -->
