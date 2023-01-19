@@ -37,6 +37,7 @@ Contact me: <davidmaringomez81@gmail.com>
     - [Multihilo](https://github.com/DavidMarin81/PruebaMultihilo)
     
 - Base de datos
+    - [Apuntes de BBDD](https://github.com/DavidMarin81/Apuntes-BBDD.git)
 
 ## MY PROYECTS
 - Java
@@ -48,6 +49,9 @@ Contact me: <davidmaringomez81@gmail.com>
 - Arduino
     - [Simon Says](https://github.com/DavidMarin81/Proyectos-Varios-/blob/main/Arduino/SImon%20Dice/Simon%20Dice%20(Sin%20pantalla))
     - [Simon Says with LCD Screen](https://github.com/DavidMarin81/Proyectos-Varios-/blob/main/Arduino/SImon%20Dice/Sim%C3%B3n%20Dice%20(Con%20Pantalla))
+    - [Piedra, papel, tijera](https://github.com/DavidMarin81/Piedra_Papel_Tijera)
+    - [Sensor Ultrasónico de movimiento](https://github.com/DavidMarin81/Sensor_Ultras-nico)
+    - [Reloj con alarma](https://github.com/DavidMarin81/Reloj_Con_Alarma)
 - Android Studio
     - [City Jungle](https://github.com/DavidMarin81/actividad7_leerCadenas)
 - C#
