@@ -25,6 +25,9 @@ Contact me: <davidmaringomez81@gmail.com>
 
 ## MY REPOSITORIES
 - Acceso a Datos
+    - [Lectura y Escritura XML con DOM](https://github.com/DavidMarin81/LecturaEscrituraXMLconDOM)
+    - [Lectura y Escritura con JAXB (XML - JAVA)](https://github.com/DavidMarin81/LecturaEscrituraconJAXB_XML)
+    - [Hibernate](https://github.com/DavidMarin81/Hibernate)
     - [Actividad 1.6 - Lectura y Escritura XML con DOM](https:///github.com/DavidMarin81/Actividad1.6)
     - [Tarea 1.1](https://github.com/DavidMarin81/Tarea01.1)
     - [Tarea 1.2](https://github.com/DavidMarin81/Tarea01.2)
@@ -41,9 +44,7 @@ Contact me: <davidmaringomez81@gmail.com>
 
 ## MY PROYECTS
 - Java
-    - [Lectura y Escritura XML con DOM](https://github.com/DavidMarin81/LecturaEscrituraXMLconDOM)
-    - [Lectura y Escritura con JAXB (XML - JAVA)](https://github.com/DavidMarin81/LecturaEscrituraconJAXB_XML)
-    - [Hibernate](https://github.com/DavidMarin81/Hibernate)
+    - [Juego del ahorcado](https://github.com/DavidMarin81/JuegoDelAhorcado)
 - BBDD
     - [Apuntes de BBDD](https://github.com/DavidMarin81/Apuntes-BBDD.git)
 - Arduino
