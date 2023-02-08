@@ -57,3 +57,5 @@ Contact me: <davidmaringomez81@gmail.com>
     - [City Jungle](https://github.com/DavidMarin81/actividad7_leerCadenas)
 - C#
     - [Generador de Salidas del Puerto](https://github.com/DavidMarin81/actividad7_leerCadenas)
+- JavaScript
+    - [Apuntes de JavaScript](https://github.com/DavidMarin81/Curso-JavaScript) 
