@@ -3,8 +3,9 @@
 ### My name is <font color="cyan">David Marin</font> and I love programming.
 
 Contact me: <davidmaringomez81@gmail.com>
-### I finished C.S. Desarrollo de Aplicaciones Multiplatafoma (DAM) - IES de Teis.
-### Currently, I´m learning:
+### C.S. Desarrollo de Aplicaciones Multiplatafoma (DAM) - IES de Teis.
+### Bootcamp en Desarrollo FullStack (Imatia - Campus Dual)
+### Currently, I´m still learning:
 
 <!-- logos cogidos de: https://dev.to/envoy_/150-badges-for-github-pnk -->
 
