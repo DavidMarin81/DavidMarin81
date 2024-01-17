@@ -23,28 +23,14 @@ Contact me: <davidmaringomez81@gmail.com>
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotliln](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
-## MY REPOSITORIES
-- Acceso a Datos
-    - [Lectura y Escritura XML con DOM](https://github.com/DavidMarin81/LecturaEscrituraXMLconDOM)
-    - [Lectura y Escritura con JAXB (XML - JAVA)](https://github.com/DavidMarin81/LecturaEscrituraconJAXB_XML)
-    - [Hibernate](https://github.com/DavidMarin81/Hibernate)
-    - [Actividad 1.6 - Lectura y Escritura XML con DOM](https:///github.com/DavidMarin81/Actividad1.6)
-    - [Tarea 1.1](https://github.com/DavidMarin81/Tarea01.1)
-    - [Tarea 1.2](https://github.com/DavidMarin81/Tarea01.2)
-    - [Tarea 2.1](https://github.com/DavidMarin81/Tarea02.1-1Evaluacion)
-
-- PSP
-    - [Ejercicio 7](https://github.com/DavidMarin81/actividad7_leerCadenas)
-    - [Ejercicio 8](https://github.com/DavidMarin81/Ejercicio8-Procesos)
-    - [Ejercicio 9](https://github.com/DavidMarin81/Ejercicio9-Procesos)
-    - [Multihilo](https://github.com/DavidMarin81/PruebaMultihilo)
-    
-- Base de datos
-    - [Apuntes de BBDD](https://github.com/DavidMarin81/Apuntes-BBDD.git)
-
 ## MY PROYECTS
 - Java
     - [Juego del ahorcado](https://github.com/DavidMarin81/JuegoDelAhorcado)
+- Android Studio
+    - [City Jungle](https://github.com/DavidMarin81/actividad7_leerCadenas)
+    - [Galeria de Fotos](https://github.com/DavidMarin81/GaleriaDeFotos)
+    - [Lemonade App](https://github.com/DavidMarin81/Lemonade-App)
+    - [Tarjeta de Presentación](https://github.com/DavidMarin81/TarjetaDePresentacion)
 - BBDD
     - [Apuntes de BBDD](https://github.com/DavidMarin81/Apuntes-BBDD.git)
 - Arduino
@@ -52,8 +38,6 @@ Contact me: <davidmaringomez81@gmail.com>
     - [Piedra, papel, tijera](https://github.com/DavidMarin81/Piedra_Papel_Tijera)
     - [Sensor Ultrasónico de movimiento](https://github.com/DavidMarin81/Sensor_Ultras-nico)
     - [Reloj con alarma](https://github.com/DavidMarin81/Reloj_Con_Alarma)
-- Android Studio
-    - [City Jungle](https://github.com/DavidMarin81/actividad7_leerCadenas)
 - C#
     - [Generador de Salidas del Puerto](https://github.com/DavidMarin81/actividad7_leerCadenas)
 - JavaScript
