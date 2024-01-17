@@ -26,8 +26,7 @@ Contact me: <davidmaringomez81@gmail.com>
 ## MY PROYECTS
 - Java
     - [Juego del ahorcado](https://github.com/DavidMarin81/JuegoDelAhorcado)
-- Android Studio
-    - [City Jungle](https://github.com/DavidMarin81/actividad7_leerCadenas)
+- Android Studio (JetPack Compose)
     - [Galeria de Fotos](https://github.com/DavidMarin81/GaleriaDeFotos)
     - [Lemonade App](https://github.com/DavidMarin81/Lemonade-App)
     - [Tarjeta de Presentación](https://github.com/DavidMarin81/TarjetaDePresentacion)
@@ -38,8 +37,6 @@ Contact me: <davidmaringomez81@gmail.com>
     - [Piedra, papel, tijera](https://github.com/DavidMarin81/Piedra_Papel_Tijera)
     - [Sensor Ultrasónico de movimiento](https://github.com/DavidMarin81/Sensor_Ultras-nico)
     - [Reloj con alarma](https://github.com/DavidMarin81/Reloj_Con_Alarma)
-- C#
-    - [Generador de Salidas del Puerto](https://github.com/DavidMarin81/actividad7_leerCadenas)
 - JavaScript
     - [Apuntes de JavaScript](https://github.com/DavidMarin81/Curso-JavaScript)
 - Git
